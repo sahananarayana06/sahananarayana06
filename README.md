@@ -1,16 +1,16 @@
 # 💫 About Me:
 👋 Hi, I’m Sahana<br>🎓 Computer Science Student<br>💻 Web Development | Data Analytics Enthusiast<br>🚀Interested in algorithms, problem-solving, and web development<br>📊Exploring data analysis and visualization using Power BI<br>🌐Focused on building data-driven Web Applications<br>💡Passionate about learning new technologies and improving every day.
 
----
 
-## 🌐 Socials:
+
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/bwh2SaaR)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahana_narayana_07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana-6564a3327/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SahanaNara37701)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahananarayana21@gmail.com)
 
----
+
 
 # 💻 Tech Stack:
 
@@ -56,19 +56,19 @@
 ![Canva](https://img.shields.io/badge/Canva-0F172A?style=for-the-badge&logo=canva&logoColor=00C4CC)
 ![Arduino](https://img.shields.io/badge/Arduino-0F172A?style=for-the-badge&logo=arduino&logoColor=00979D)<p align="center">
 
----
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sahana_narayana06&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sahana_narayana06&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahana_narayana06&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=sahana_narayana06&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
