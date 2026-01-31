@@ -57,7 +57,59 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 ![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-0F172A?style=for-the-badge&logo=canva&logoColor=00C4CC)
-![Arduino](https://img.shields.io/badge/Arduino-0F172A?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Arduino](https://img.shields.io/badge/Arduino-0F172A?style=for-the-badge&logo=arduino&logoColor=00979D)<p align="center">
+
+<img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/-39457E?style=for-the-badge&logo=perl&logoColor=white" />
+<img src="https://img.shields.io/badge/-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-023430?style=for-the-badge&logo=mongodb&logoColor=00ED64" />
+<img src="https://img.shields.io/badge/-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/-0F172A?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+<img src="https://img.shields.io/badge/-D42029?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/-0F172A?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+<img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/-0F172A?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+<img src="https://img.shields.io/badge/-0F172A?style=for-the-badge&logo=arduino&logoColor=00979D" />
+
+</p>
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sahana_narayana06&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
