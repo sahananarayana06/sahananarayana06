@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m #Sahana<br>🎓 Computer Science Student<br>💻 Web Development | Data Analytics Enthusiast<br>🚀Interested in algorithms, problem-solving, and web development<br>📊Exploring data analysis and visualization using Power BI<br>🌐Focused on building data-driven Web Applications<br>💡Passionate about learning new technologies and improving every day.
+👋 Hi, I’m 
+# Sahana
+<br>🎓 Computer Science Student<br>💻 Web Development | Data Analytics Enthusiast<br>🚀Interested in algorithms, problem-solving, and web development<br>📊Exploring data analysis and visualization using Power BI<br>🌐Focused on building data-driven Web Applications<br>💡Passionate about learning new technologies and improving every day.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/bwh2SaaR) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sahana_narayana_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana-6564a3327/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SahanaNara37701) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahananarayana21@gmail.com) 
