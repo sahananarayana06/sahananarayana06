@@ -2,11 +2,24 @@
 👋 Hi, I’m Sahana<br>🎓 Computer Science Student<br>💻 Web Development | Data Analytics Enthusiast<br>🚀Interested in algorithms, problem-solving, and web development<br>📊Exploring data analysis and visualization using Power BI<br>🌐Focused on building data-driven Web Applications<br>💡Passionate about learning new technologies and improving every day.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/bwh2SaaR)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sahana_narayana_07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana-6564a3327/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SahanaNara37701)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahananarayana21@gmail.com)
+<p align="center">
+<a href="https://discord.com/invite/bwh2SaaR">
+  <img src="https://img.shields.io/badge/-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/sahana_narayana_07">
+  <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sahana-6564a3327/">
+  <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/SahanaNara37701">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="mailto:sahananarayana21@gmail.com">
+  <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
 
 
 # 💻 Tech Stack:
