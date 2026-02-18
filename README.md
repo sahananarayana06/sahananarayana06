@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sahana<br>🎓 Computer Science Student<br>💻 Web Development | Data Analytics Enthusiast<br>🚀 Interested in algorithms, problem-solving, and web development<br>📊 Exploring data analysis and visualization using Power BI<br>🌐 Focused on building data-driven Web Applications<br>💡 Passionate about learning new technologies and improving every day.
+👋 Hi, I’m Sahana<br>🎓 Computer Science Student<br>💻 Web Development | Data Analytics Enthusiast<br>🚀 Interested in algorithms, problem-solving, and Web Development<br>📊 Exploring data analysis and visualization using Power BI<br>🌐 Focused on building data-driven Web Applications<br>💡 Passionate about learning new technologies and improving every day.
 
 
 
