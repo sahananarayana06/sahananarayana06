@@ -2,7 +2,6 @@
 👋 Hi, I’m Sahana<br>🎓 Computer Science Student<br>💻 Web Development | Data Analytics Enthusiast<br>🚀 Interested in algorithms, problem-solving, and Web Development<br>📊 Exploring data analysis and visualization using Power BI<br>🌐 Focused on building data-driven Web Applications<br>💡 Passionate about learning new technologies and improving every day.
 
 
-
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/bwh2SaaR)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahana_narayana_07)
